@@ -1,4 +1,6 @@
 # Diwali-Sales-Insights
+![Diwali Sal](https://github.com/Alok-Kumar-Roul/Diwali-Sales-Insights/assets/79954408/bf2ce520-9bf2-4def-9872-06c00a16e903)
+
 # Introduction:
 
 The Diwali Sales Analysis project explores sales trends during the festive season, leveraging Python for data analysis and visualization to gain insights into customer behavior and product preferences.
